@@ -1,0 +1,115 @@
+:root {
+  --light: rgb(189, 189, 189);
+  --white: rgb(255, 255, 255);
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  background: rgba(10, 10, 20, 0.4);
+  backdrop-filter: blur(10px);
+  z-index: 100;
+}
+
+.glass-container {
+  /* border-top: 1px solid rgba(255, 255, 255, 0.15); */
+  background: rgba(10, 10, 20, 0.4);
+  backdrop-filter: blur(10px);
+}
+
+.custom-container {
+  min-height: 100vh;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.outer-wrapper {
+  position: relative;
+}
+
+.bg-orb {
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  opacity: 100%;
+  z-index: -1;
+  bottom: 5px;
+  pointer-events: none;
+}
+
+.bg {
+  position: fixed;
+  background-color: black;
+  top: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: -1;
+}
+
+.proj-card {
+  max-width: 32rem;
+}
+
+.nav-link {
+  color: var(--light) !important;
+}
+
+.nav-link:hover {
+  color: var(--white) !important;
+}
+
+.icon {
+  color: var(--light);
+}
+
+.icon:hover {
+  color: var(--white);
+}
+
+.intro-section {
+  height: 92.5vh;
+  z-index: 10;
+  position: relative;
+}
+
+.divider {
+  border: 1px solid white !important;
+  opacity: 1 !important;
+  width: 50px;
+}
+
+.no-h:hover {
+  cursor: default;
+}
+
+.font-light {
+  font-weight: 100 !important;
+}
+
+.font-small {
+  font-size: 18px !important;
+}
+
+.link-small{
+  font-size: 15px !important;
+}
+
+.virtual-footer{
+  margin-top: 200px;
+}
+
+@media (max-width: 425px) {
+  .font-small {
+    font-weight: 100;
+    font-size: 16px;
+  }
+
+  .proj-card {
+    max-width: 20rem;
+  }
+}
