@@ -117,6 +117,10 @@ export default function App() {
                         <span className="badge text-bg-light me-2">
                           Chart.js
                         </span>
+                        <span className="badge text-bg-light me-2">
+                          Bootstrap
+                        </span>
+                        <span className="badge text-bg-light me-2">CSS</span>
                       </div>
 
                       <a
@@ -163,6 +167,10 @@ export default function App() {
                         <span className="badge text-bg-light me-2">
                           Mongoose
                         </span>
+                        <span className="badge text-bg-light me-2">
+                          Bootstrap
+                        </span>
+                        <span className="badge text-bg-light me-2">CSS</span>
                       </div>
 
                       <a
@@ -221,6 +229,16 @@ export default function App() {
                 </div>
                 <div className="col-sm-3 col-6 mt-2">
                   <p className="fs-6">
+                    <i className="devicon-bootstrap-plain mx-2"></i> Bootstrap
+                  </p>
+                </div>
+                <div className="col-sm-3 col-6 mt-2">
+                  <p className="fs-6">
+                    <i className="devicon-css3-plain mx-2"></i> CSS
+                  </p>
+                </div>
+                <div className="col-sm-3 col-6 mt-2">
+                  <p className="fs-6">
                     <i className="devicon-chartjs-plain mx-2"></i> Chart.js
                   </p>
                 </div>
@@ -250,22 +268,22 @@ export default function App() {
                   </p>
                 </div>
                 <div className="col-sm-3 col-6 mt-2">
-                  <p className="fs-5">
+                  <p className="fs-6">
                     <i className="devicon-vscode-plain mx-2"></i> VS Code
                   </p>
                 </div>
                 <div className="col-sm-3 col-6 mt-2">
-                  <p className="fs-5">
+                  <p className="fs-6">
                     <i className="devicon-npm-plain mx-2"></i> npm
                   </p>
                 </div>
                 <div className="col-sm-3 col-6 mt-2">
-                  <p className="fs-5">
+                  <p className="fs-6">
                     <i className="devicon-git-plain mx-2"></i> Git
                   </p>
                 </div>
                 <div className="col-sm-3 col-6 mt-2">
-                  <p className="fs-5">
+                  <p className="fs-6">
                     <i className="devicon-github-plain mx-2"></i> GitHub
                   </p>
                 </div>
@@ -331,9 +349,7 @@ export default function App() {
                 </div>
 
                 <div className="col-sm-6 col-12">
-                  <a
-                    className="card glass-container text-decoration-none"
-                  >
+                  <a className="card glass-container text-decoration-none">
                     <div className="card-body">
                       <div className=" d-flex justify-content-start align-items-center">
                         <i className="bi bi-file-earmark-person fs-2"></i>
@@ -346,9 +362,10 @@ export default function App() {
               </div>
 
               <div className="virtual-footer">
-                <p className="text-center">&copy; 2025 Mayank Singh | All Rights Reserved</p>
+                <p className="text-center">
+                  &copy; 2025 Mayank Singh | All Rights Reserved
+                </p>
               </div>
-
             </div>
           </section>
         </div>
