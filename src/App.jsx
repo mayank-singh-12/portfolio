@@ -194,53 +194,58 @@ export default function App() {
               <hr className="divider" />
               <div className="row mt-5">
                 <div className="col-sm-3 col-6 mt-2">
-                  <p className="fs-5">
+                  <p className="fs-6">
                     <i className="devicon-react-original mx-2"></i> React
                   </p>
                 </div>
                 <div className="col-sm-3 col-6 mt-2">
-                  <p className="fs-5">
+                  <p className="fs-6">
                     <i className="devicon-nodejs-plain mx-2"></i> Node.js
                   </p>
                 </div>
                 <div className="col-sm-3 col-6 mt-2">
-                  <p className="fs-5">
+                  <p className="fs-6">
                     <i className="devicon-express-original mx-2"></i>
                     Express.js
                   </p>
                 </div>
                 <div className="col-sm-3 col-6 mt-2">
-                  <p className="fs-5">
+                  <p className="fs-6">
                     <i className="devicon-mongodb-plain mx-2"></i> MongoDB
                   </p>
                 </div>
                 <div className="col-sm-3 col-6 mt-2">
-                  <p className="fs-5">
+                  <p className="fs-6">
                     <i className="devicon-mongoose-original mx-2"></i> Mongoose
                   </p>
                 </div>
                 <div className="col-sm-3 col-6 mt-2">
-                  <p className="fs-5">
+                  <p className="fs-6">
                     <i className="devicon-chartjs-plain mx-2"></i> Chart.js
                   </p>
                 </div>
                 <div className="col-sm-3 col-6 mt-2">
-                  <p className="fs-5">
+                  <p className="fs-6">
+                    <i className="devicon-vitejs-plain mx-2"></i> Vite
+                  </p>
+                </div>
+                <div className="col-sm-3 col-6 mt-2">
+                  <p className="fs-6">
                     <i className="devicon-python-plain mx-2"></i> Python
                   </p>
                 </div>
                 <div className="col-sm-3 col-6 mt-2">
-                  <p className="fs-5">
+                  <p className="fs-6">
                     <i className="devicon-flask-original mx-2"></i> Flask
                   </p>
                 </div>
                 <div className="col-sm-3 col-6 mt-2">
-                  <p className="fs-5">
+                  <p className="fs-6">
                     <i className="devicon-postgresql-plain mx-2"></i> PostgreSQL
                   </p>
                 </div>
                 <div className="col-sm-3 col-6 mt-2">
-                  <p className="fs-5">
+                  <p className="fs-6">
                     <i className="devicon-sqlalchemy-plain mx-2"></i> SQLAlchemy
                   </p>
                 </div>
