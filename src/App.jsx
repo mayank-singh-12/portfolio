@@ -349,7 +349,11 @@ export default function App() {
                 </div>
 
                 <div className="col-sm-6 col-12">
-                  <a className="card glass-container text-decoration-none">
+                  <a
+                    className="card glass-container text-decoration-none"
+                    href="https://drive.google.com/file/d/1DmhoJvSZEkpDplyLVFoRN5XCV8TJEsvX/view?usp=sharing"
+                    target="_blank"
+                  >
                     <div className="card-body">
                       <div className=" d-flex justify-content-start align-items-center">
                         <i className="bi bi-file-earmark-person fs-2"></i>
