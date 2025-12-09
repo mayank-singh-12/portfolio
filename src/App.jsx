@@ -1,4 +1,3 @@
-import Squares from "./reactBits/squares/Squares";
 import Orb from "./reactBits/orbs/Orb";
 
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -67,7 +66,7 @@ export default function App() {
               </a>
               <a
                 className="text-light mx-2"
-                href="https://drive.google.com/file/d/1DmhoJvSZEkpDplyLVFoRN5XCV8TJEsvX/view?usp=sharing"
+                href="https://drive.google.com/drive/u/0/folders/15GZNnUH15rQhidDQH3ksF62ezzk4SfY9"
                 target="_blank"
               >
                 <i className="bi bi-file-earmark-person-fill fs-1 icon"></i>
@@ -88,7 +87,7 @@ export default function App() {
               <hr className="divider" />
               <div className="row g-4 pt-5">
                 {/* Project 1 */}
-                <div className="col-sm-6 col-12 p-0 d-flex justify-content-center">
+                <div className="col-sm-6 col-12">
                   <div className="card proj-card glass-container">
                     <img
                       src={covalentSales}
@@ -141,7 +140,7 @@ export default function App() {
                   </div>
                 </div>
                 {/* Project 2 */}
-                <div className="col-sm-6 col-12 p-0 d-flex justify-content-center">
+                <div className="col-sm-6 col-12">
                   <div className="card proj-card glass-container">
                     <img
                       src={digitMart}

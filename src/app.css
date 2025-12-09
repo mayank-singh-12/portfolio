@@ -50,10 +50,10 @@ header {
   width: 100vw;
   z-index: -1;
 }
-
+/* 
 .proj-card {
   max-width: 32rem;
-}
+} */
 
 .nav-link {
   color: var(--light) !important;
@@ -108,9 +108,9 @@ header {
     font-size: 16px;
   }
 
-  .proj-card {
+  /* .proj-card {
     max-width: 18rem !important;
-  }
+  } */
   .nav-link{
     padding: 9px !important;
   }
