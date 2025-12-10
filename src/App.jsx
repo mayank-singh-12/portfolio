@@ -66,7 +66,7 @@ export default function App() {
               </a>
               <a
                 className="text-light mx-2"
-                href="https://drive.google.com/drive/u/0/folders/15GZNnUH15rQhidDQH3ksF62ezzk4SfY9"
+                href="https://drive.google.com/file/d/1GwkwyP6D0HHPR8-DfN-90zlX1mLC7HIz/view?usp=drive_link"
                 target="_blank"
               >
                 <i className="bi bi-file-earmark-person-fill fs-1 icon"></i>
