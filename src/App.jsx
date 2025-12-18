@@ -66,7 +66,7 @@ export default function App() {
               </a>
               <a
                 className="text-light mx-2"
-                href="https://drive.google.com/file/d/1GwkwyP6D0HHPR8-DfN-90zlX1mLC7HIz/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1pcAyVYctIIbzGbwWHVETztUZgAQDKtxd/view?usp=drive_link"
                 target="_blank"
               >
                 <i className="bi bi-file-earmark-person-fill fs-1 icon"></i>
@@ -152,8 +152,8 @@ export default function App() {
 
                       <p className="card-text">
                         An E-commerce Full-stack app with multi-Filtering,
-                        sorting, wishlist management, cart management,
-                        address management and Responsive UI.
+                        sorting, wishlist management, cart management, address
+                        management and Responsive UI.
                       </p>
 
                       <div className="mb-3">
@@ -249,22 +249,7 @@ export default function App() {
                 </div>
                 <div className="col-sm-3 col-6 mt-2">
                   <p className="fs-6">
-                    <i className="devicon-python-plain mx-2"></i> Python
-                  </p>
-                </div>
-                <div className="col-sm-3 col-6 mt-2">
-                  <p className="fs-6">
-                    <i className="devicon-flask-original mx-2"></i> Flask
-                  </p>
-                </div>
-                <div className="col-sm-3 col-6 mt-2">
-                  <p className="fs-6">
                     <i className="devicon-postgresql-plain mx-2"></i> PostgreSQL
-                  </p>
-                </div>
-                <div className="col-sm-3 col-6 mt-2">
-                  <p className="fs-6">
-                    <i className="devicon-sqlalchemy-plain mx-2"></i> SQLAlchemy
                   </p>
                 </div>
                 <div className="col-sm-3 col-6 mt-2">
