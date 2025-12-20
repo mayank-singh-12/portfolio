@@ -288,7 +288,7 @@ export default function App() {
                 <div className="col-sm-6 col-12">
                   <a
                     className="card glass-container text-decoration-none"
-                    href="https://mail.google.com/mail/u/0/?view=cm&to=dev.by.mayank@gmail.com"
+                    href="https://drive.google.com/file/d/1F3Zhu-umnEL-GFg-ohL6oNnCchKe9k6C/view?usp=drive_link"
                     target="_blank"
                   >
                     <div className="card-body">
