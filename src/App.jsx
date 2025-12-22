@@ -66,7 +66,7 @@ export default function App() {
               </a>
               <a
                 className="text-light mx-2"
-                href="https://drive.google.com/file/d/1pcAyVYctIIbzGbwWHVETztUZgAQDKtxd/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1F3Zhu-umnEL-GFg-ohL6oNnCchKe9k6C/view?usp=drive_link"
                 target="_blank"
               >
                 <i className="bi bi-file-earmark-person-fill fs-1 icon"></i>
@@ -288,7 +288,7 @@ export default function App() {
                 <div className="col-sm-6 col-12">
                   <a
                     className="card glass-container text-decoration-none"
-                    href="https://drive.google.com/file/d/1F3Zhu-umnEL-GFg-ohL6oNnCchKe9k6C/view?usp=sharing"
+                    href="https://mail.google.com/mail/?view=cm&to=dev.by.mayank@gmail.com"
                     target="_blank"
                   >
                     <div className="card-body">
